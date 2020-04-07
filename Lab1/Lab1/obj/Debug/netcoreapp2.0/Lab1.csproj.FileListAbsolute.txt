@@ -1,0 +1,11 @@
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.deps.json
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.json
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.dev.json
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.dll
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.pdb
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.csprojAssemblyReference.cache
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfoInputs.cache
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfo.cs
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.dll
+D:\Documente\Facultate\Sem2\II\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.pdb
